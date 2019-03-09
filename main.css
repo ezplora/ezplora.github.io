@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+body {
+    font-family: "Quicksand", "sans-serif";
+    background-image: url("https://i.postimg.cc/9FDBdHR5/black-and-white-polygon-jpg.png");
+    background-size: cover;
+}
+
+.card {
+    max-width: 400px;
+    height: 100%;
+    background-color: #fff;
+    margin: 50px auto;
+    border-radius: 12px;
+}
+
+.card img {
+    width: 100%;
+}
+
+.card .detail {
+    padding: 10px 20px 30px 20px;
+    text-align: center;
+}
+
+.card .detail h1 {
+    font-size: 1.7em;
+    color: #68CD5C;
+}
+
+.card .detail h4 {
+    color: #707070;
+}
+
+.card .detail  p {
+    color: #707070;
+    line-height: 1.3em;
+}
+
+.card .detail .social i {
+    color: #68CD5C;
+    margin-right: 10px;
+}
+
